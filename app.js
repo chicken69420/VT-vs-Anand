@@ -1557,7 +1557,7 @@ particlesJS('particles-js',
         "image": {
           "src": "anand.png",
           "width": 200,
-          "height": 175
+          "height": 300
         }
       },
       "opacity": {
@@ -1571,7 +1571,7 @@ particlesJS('particles-js',
         }
       },
       "size": {
-        "value": 300,
+        "value": 100,
         "random": true,
         "anim": {
           "enable": false,
