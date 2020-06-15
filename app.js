@@ -1555,7 +1555,7 @@ particlesJS('particles-js',
           "nb_sides": 5
         },
         "image": {
-          "src": "vt.png",
+          "src": "anand.png",
           "width": 200,
           "height": 175
         }
